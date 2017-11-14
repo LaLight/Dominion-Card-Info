@@ -311,5 +311,15 @@
 "tower": ["Tower", "When scoring, 1<:VP:377195966471864320> per non-Victory card you have from an empty Supply pile.", "Claus Stephan"],
 "triumphal-arch": ["Triumphal Arch", "When scoring, 3<:VP:377195966471864320> per copy you have of the 2nd most common Action card among your cards (if it’s a tie, count either).", "Claus Stephan"],
 "wall": ["Wall", "When scoring, -1<:VP:377195966471864320> per card you have after the first 15.", "Joshua Stewart"],
-"wolf-den": ["Wolf Den", "When scoring, -3<:VP:377195966471864320> per card you have exactly one copy of.", "Kendra Dodsworth"]
+"wolf-den": ["Wolf Den", "When scoring, -3<:VP:377195966471864320> per card you have exactly one copy of.", "Kendra Dodsworth"],
+  "envoy": ["Envoy", "Reveal the top 5 cards of your deck. The player to your left chooses one. Discard that one and put the rest into your hand.", "Matthias Catrein"],
+"black-market": ["Black Market", "+2<:coin:377195990010298368>\n\nReveal the top 3 cards of the Black Market deck. Play any number of Treasures from your hand. You may buy one of the revealed cards. Put the rest on the bottom of the Black Market deck in any order.\n---------------\nSetup: Make a Black Market deck out of different unused Kingdom cards.", "Franz Vohwinkel"],
+"stash": ["Stash", "2<:coin:377195990010298368>\n---------------\nWhen shuffling this, you may look through your remaining deck, and may put this anywhere in the shuffled cards.", "Martin Hoffmann"],
+"walled-village": ["Walled Village", "+1 Card\n+2 Actions\n---------------\nAt the start of Clean-up, if you have this and no more than one other Action card in play, you may put this onto your deck.", "Doris Matthäus"],
+"governor": ["Governor", "+1 Action\n\nChoose one; you get the version in parentheses: Each player gets +1 (+3) Cards; or each player gains a Silver (Gold); or each player may trash a card from their hand and gain a card costing exactly 1<:coin:377195990010298368> (2<:coin:377195990010298368>) more.", "Harald Lieske"],
+"prince": ["Prince", "You may set this aside. If you do, set aside an Action card from your hand costing up to 4<:coin:377195990010298368>. At the start of each of your turns, play that Action, setting it aside again when you discard it from play. (Stop playing it if you fail to set it aside on a turn you play it.)", "Eric J Carter"],
+"sauna": ["Sauna", "+1 Card\n+1 Action\n\nYou may play an Avanto from your hand.\n---------------\nWhile this is in play, when you play a Silver, you may trash a card from your hand.", "Ossi Hiekkala"],
+"avanto": ["Avanto", "+3 Cards\n\nYou may play a Sauna from your hand.", "Ossi Hiekkala"],
+"dismantle": ["Dismantle", "Trash a card from your hand. If it costs 1<:coin:377195990010298368> or more, gain a cheaper card and a Gold.", "Elisa Cella"],
+"summon": ["Summon", "Gain an Action card costing up to 4<:coin:377195990010298368>. Set it aside. If you did, then at the start of your next turn, play it.", "Marco Morte"]
 }
