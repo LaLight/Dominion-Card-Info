@@ -322,32 +322,32 @@
 "avanto": ["Avanto", "+3 Cards\n\nYou may play a Sauna from your hand.", "Ossi Hiekkala"],
 "dismantle": ["Dismantle", "Trash a card from your hand. If it costs 1<:coin:377195990010298368> or more, gain a cheaper card and a Gold.", "Elisa Cella"],
 "summon": ["Summon", "Gain an Action card costing up to 4<:coin:377195990010298368>. Set it aside. If you did, then at the start of your next turn, play it.", "Marco Morte"],
-"embargo": ["Embargo", "+2<:coin:377195990010298368>\n\nTrash this. Add an Embargo token to a Supply pile. (For the rest of the game, when a player buys a card from that pile, they gain a Curse.)", "Harald Lieske"]
-"haven": ["Haven", "+1 Card\n+1 Action\n\nSet aside a card from your hand face down (under this). At the start of your next turn, put it into your hand.", "Claus Stephan"]
-"lighthouse": ["Lighthouse", "+1 Action\n\nNow and at the start of your next turn: +1<:coin:377195990010298368>\n---------------\n While this is in play, when another player plays an Attack card, it doesn't affect you.", "Marcel-André Casasola Merkle"]
-"native-village": ["Native Village", "+2 Actions\n\n Choose one: Put the top card of your deck face down on your Native Village mat (you may look at those cards at any time); or put all the cards from your mat into your hand.", "Franz Vohwinkel"]
-"pearl-diver": ["Pearl Diver", "+1 Card\n+1 Action\n\nLook at the bottom card of your deck. You may put it on top.", "Maura Kalusky"]
-"ambassador": ["Ambassador", "Reveal a card from your hand. Return up to 2 copies of it from your hand to the Supply. Then each other player gains a copy of it.", "Alejandro Gutiérrez Franco"]
-"fishing-village": ["Fishing Village", "+2 Actions\n+1<:coin:377195990010298368> At the start of your next turn: +1 Action and +1<:coin:377195990010298368>", "Harald Lieske"]
-"lookout": ["Lookout", "+1 Action\nLook at the top 3 cards of your deck. Trash one of them. Discard one of them. Put the other one back on top of your deck.", "	Alejandro Gutiérrez Franco"]
-"smugglers": ["Smugglers", "Gain a copy of a card costing up to 6<:coin:377195990010298368> that the player to your right gained on their last turn.", "	RC Torres"]
-"warehouse": ["Warehouse", "+3 Cards\n+1 Action\n\n Discard 3 cards.", "Julien Delval"]
-"caravan": ["Caravan", "+1 Card\n+1 Action\n\nAt the start of your next turn, +1 Card.", "Marcel-André Casasola Merkle"]
-"cutpurse": ["Cutpurse", "+2<:coin:377195990010298368>\n\nEach other player discards a Copper (or reveals a hand with no Copper).", "Martin Hoffmann"]
-"island": ["Island", "Put this and a card from your hand onto your Island mat.\n---------------\n2<:VP:377195966471864320>", "Franz Vohwinkel"]
-"navigator": ["Navigator", "+2<:coin:377195990010298368>\n\nLook at the top 5 cards of your deck. Either discard them all, or put them back in any order.", "	Maura Kalusky"]
-"pirate-ship": ["Pirate Ship", "Choose one: +1<:coin:377195990010298368> per Coin token on your Pirate Ship mat; or each other player reveals the top 2 cards of their deck, trashes one of those Treasures that you choose, and discards the rest, and then if anyone trashed a Treasure you add a Coin token to your Pirate Ship mat.", "Franz Vohwinkel"]
-"salvager": ["Salvager", "+1 Buy\n\nTrash a card from your hand. +1<:coin:377195990010298368> per 1<:coin:377195990010298368> it costs.", "RC Torres"]
-"sea-hag": ["Sea Hag", "Each other player discards the top card of their deck, then gains a Curse onto their deck.", "Christof Tisch"]
-"treasure-map": ["Treasure Map", "Trash this and a Treasure Map from your hand. If you trashed two Treasure Maps, gain 4 Golds onto your deck.", "Matthias Catrein"]
-"bazaar": ["Bazaar", "+1 Card\n+2 Actions\n+1<:coin:377195990010298368>", "Martin Hoffmann"]
-"explorer": ["Explorer", "You may reveal a Province from your hand. If you do, gain a Gold to your hand. If you don't, gain a Silver to your hand.", "	Dennis Lohausen"]
-"ghost-ship": ["Ghost Ship", "+2 Cards\n\nEach other player with 4 or more cards in hand puts cards from their hand onto their deck until they have 3 cards in hand.", "Matthias Catrein"]
-"merchant-ship": ["Merchant Ship", "Now and at the start of your next turn: +2<:coin:377195990010298368>.", "Ryan Laukat"]
-"outpost": ["Outpost", "If this is the first time you played an Outpost this turn, and the previous turn wasn't yours, then take an extra turn after this one, and you only draw 3 cards for your next hand.", "Claus Stephan"]
-"tactician": ["Tactician", "If you have at least one card in hand, discard your hand, and at the start of your next turn, +5 Cards, +1 Action, and +1 Buy.", "Martin Hoffmann"]
-"treasury": ["Treasury", "+1 Card\n+1 Action\n+1<:coin:377195990010298368>\n\n When you discard this from play, if you didn't buy a Victory card this turn, you may put this onto your deck.", "Ryan Laukat"]
-"wharf": ["Wharf", "Now and at the start of your next turn: +2 Cards and +1 Buy.", "Simon Samuelsson"]
+"embargo": ["Embargo", "+2<:coin:377195990010298368>\n\nTrash this. Add an Embargo token to a Supply pile. (For the rest of the game, when a player buys a card from that pile, they gain a Curse.)", "Harald Lieske"],
+"haven": ["Haven", "+1 Card\n+1 Action\n\nSet aside a card from your hand face down (under this). At the start of your next turn, put it into your hand.", "Claus Stephan"],
+"lighthouse": ["Lighthouse", "+1 Action\n\nNow and at the start of your next turn: +1<:coin:377195990010298368>\n---------------\n While this is in play, when another player plays an Attack card, it doesn't affect you.", "Marcel-André Casasola Merkle"],
+"native-village": ["Native Village", "+2 Actions\n\n Choose one: Put the top card of your deck face down on your Native Village mat (you may look at those cards at any time); or put all the cards from your mat into your hand.", "Franz Vohwinkel"],
+"pearl-diver": ["Pearl Diver", "+1 Card\n+1 Action\n\nLook at the bottom card of your deck. You may put it on top.", "Maura Kalusky"],
+"ambassador": ["Ambassador", "Reveal a card from your hand. Return up to 2 copies of it from your hand to the Supply. Then each other player gains a copy of it.", "Alejandro Gutiérrez Franco"],
+"fishing-village": ["Fishing Village", "+2 Actions\n+1<:coin:377195990010298368> At the start of your next turn: +1 Action and +1<:coin:377195990010298368>", "Harald Lieske"],
+"lookout": ["Lookout", "+1 Action\nLook at the top 3 cards of your deck. Trash one of them. Discard one of them. Put the other one back on top of your deck.", "	Alejandro Gutiérrez Franco"],
+"smugglers": ["Smugglers", "Gain a copy of a card costing up to 6<:coin:377195990010298368> that the player to your right gained on their last turn.", "	RC Torres"],
+"warehouse": ["Warehouse", "+3 Cards\n+1 Action\n\n Discard 3 cards.", "Julien Delval"],
+"caravan": ["Caravan", "+1 Card\n+1 Action\n\nAt the start of your next turn, +1 Card.", "Marcel-André Casasola Merkle"],
+"cutpurse": ["Cutpurse", "+2<:coin:377195990010298368>\n\nEach other player discards a Copper (or reveals a hand with no Copper).", "Martin Hoffmann"],
+"island": ["Island", "Put this and a card from your hand onto your Island mat.\n---------------\n2<:VP:377195966471864320>", "Franz Vohwinkel"],
+"navigator": ["Navigator", "+2<:coin:377195990010298368>\n\nLook at the top 5 cards of your deck. Either discard them all, or put them back in any order.", "	Maura Kalusky"],
+"pirate-ship": ["Pirate Ship", "Choose one: +1<:coin:377195990010298368> per Coin token on your Pirate Ship mat; or each other player reveals the top 2 cards of their deck, trashes one of those Treasures that you choose, and discards the rest, and then if anyone trashed a Treasure you add a Coin token to your Pirate Ship mat.", "Franz Vohwinkel"],
+"salvager": ["Salvager", "+1 Buy\n\nTrash a card from your hand. +1<:coin:377195990010298368> per 1<:coin:377195990010298368> it costs.", "RC Torres"],
+"sea-hag": ["Sea Hag", "Each other player discards the top card of their deck, then gains a Curse onto their deck.", "Christof Tisch"],
+"treasure-map": ["Treasure Map", "Trash this and a Treasure Map from your hand. If you trashed two Treasure Maps, gain 4 Golds onto your deck.", "Matthias Catrein"],
+"bazaar": ["Bazaar", "+1 Card\n+2 Actions\n+1<:coin:377195990010298368>", "Martin Hoffmann"],
+"explorer": ["Explorer", "You may reveal a Province from your hand. If you do, gain a Gold to your hand. If you don't, gain a Silver to your hand.", "	Dennis Lohausen"],
+"ghost-ship": ["Ghost Ship", "+2 Cards\n\nEach other player with 4 or more cards in hand puts cards from their hand onto their deck until they have 3 cards in hand.", "Matthias Catrein"],
+"merchant-ship": ["Merchant Ship", "Now and at the start of your next turn: +2<:coin:377195990010298368>.", "Ryan Laukat"],
+"outpost": ["Outpost", "If this is the first time you played an Outpost this turn, and the previous turn wasn't yours, then take an extra turn after this one, and you only draw 3 cards for your next hand.", "Claus Stephan"],
+"tactician": ["Tactician", "If you have at least one card in hand, discard your hand, and at the start of your next turn, +5 Cards, +1 Action, and +1 Buy.", "Martin Hoffmann"],
+"treasury": ["Treasury", "+1 Card\n+1 Action\n+1<:coin:377195990010298368>\n\n When you discard this from play, if you didn't buy a Victory card this turn, you may put this onto your deck.", "Ryan Laukat"],
+"wharf": ["Wharf", "Now and at the start of your next turn: +2 Cards and +1 Buy.", "Simon Samuelsson"],
 "platinum": ["Platinum", "5<:coin:377195990010298368>", "Ryan Laukat"],
 "colony": ["Colony", "11<:VP:377195966471864320>", "Martin Hoffmann"],
 "loan": ["Loan", "1<:coin:377195990010298368>\n\nWhen you play this, reveal cards from your deck until you reveal a Treasure. Discard it or trash it. Discard the other cards.", "Simon Jannerland"],
